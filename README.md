@@ -8,7 +8,7 @@
 
 <!-- Glitch Effect Title -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=500&color=4ECDC4&center=true&vCenter=true&multiline=false&width=700&height=80&lines=Full-Stack+Developer+%F0%9F%92%BB;Freelancer+%F0%9F%9A%80;Future+Startup+Founder+%F0%9F%92%A1;3rd+Year+IT+Student+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=500&color=4ECDC4&center=true&vCenter=true&multiline=false&width=700&height=80&lines=Full-Stack+Developer+%F0%9F%92%BB;Freelancer+%F0%9F%92%A1;3rd+Year+IT+Student+%F0%9F%8E%93" alt="Typing SVG" />
 </h1>
 
 <!-- Status Badges -->
@@ -45,34 +45,59 @@
 
 </div>
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
 ```typescript
-class Developer {
-  name: string = "Abhishekh Yadav";
-  location: string = "Mumbai, India 🇮🇳";
-  
-  education = {
-    degree: "B.E. Information Technology",
-    year: "3rd Year",
-    college: "St. Francis Institute of Technology"
-  };
-  
-  status = {
-    student: true,
-    freelancer: "Starting Soon 🚀",
-    building: "Personal Website for Broker",
-    learning: "Mastering Full-Stack Development",
-    dreaming: "My Own Startup 💡"
-  };
-  
-  codesWith = ["JavaScript", "TypeScript", "Python"];
-  loves = ["Building Projects", "Problem Solving", "AI Tools 🤖"];
-  
-  contact = "abhishekhyadav292619@gmail.com";
+class Abhishekh extends Developer {
+  constructor() {
+    super();
+    this.name = "Abhishekh Yadav";
+    this.location = "Mumbai, India 🇮🇳";
+    this.role = "Full-Stack Developer";
+  }
+
+  education() {
+    return {
+      degree: "B.E. Information Technology",
+      year: "3rd Year 🎓",
+      college: "St. Francis Institute of Technology",
+      status: "Learning & Building"
+    };
+  }
+
+  currentlyWorking() {
+    return [
+      "🔨 Building a Personal Website for Broker",
+      "📚 Mastering Full-Stack Development",
+      "🚀 Starting Freelance Career",
+      "💡 Planning My Own Startup"
+    ];
+  }
+
+  skills() {
+    return {
+      languages: ["JavaScript", "TypeScript", "Python"],
+      frontend: ["React", "Next.js", "Bootstrap"],
+      backend: ["Node.js", "Express", "Flask"],
+      databases: ["MongoDB", "PostgreSQL", "SQLite"],
+      tools: ["Git", "VS Code", "Postman", "Vercel"]
+    };
+  }
+
+  funFacts() {
+    return [
+      "⚡ I code with AI and love it!",
+      "🎯 Ship fast, iterate faster",
+      "☕ Powered by coffee and curiosity"
+    ];
+  }
 }
 
-const me = new Developer();
-console.log("Ready to build amazing things! 🔥");
+const me = new Abhishekh();
+console.log("Let's build something amazing! 🚀");
 ```
+
+<br clear="both"/>
 
 ---
 
@@ -224,29 +249,6 @@ My personal portfolio with smooth animations
 <div align="center">
 
 [![](https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github)](https://github.com/Abhi0229?tab=repositories)
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 CURRENT MISSION
-
-</div>
-
-<div align="center">
-
-```ascii
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   🎯  Mastering Full-Stack Development (MERN & Beyond)    ║
-║   🔨  Building: Personal Website for Broker              ║
-║   🚀  Goal: Launch Freelance Career                      ║
-║   💡  Dream: Build My Own Startup                        ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
 
 </div>
 
