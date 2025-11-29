@@ -1,287 +1,194 @@
-<!-- Header with 3D Effect -->
+<!-- Header Banner -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:4ecdc4,100:a8dadc&height=200&section=header&text=ABHISHEKH%20YADAV&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Hey%20👋%20!%20I'm%20Abhishekh%20Yadav&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40"/>
 
-<!-- Custom Avatar Section -->
-<img src="https://github.com/Abhi0229.png" width="180" style="border-radius: 50%; border: 4px solid #4ecdc4; box-shadow: 0 0 20px #4ecdc4;"/>
-
-<!-- Glitch Effect Title -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=500&color=4ECDC4&center=true&vCenter=true&multiline=false&width=700&height=80&lines=Full-Stack+Developer+%F0%9F%92%BB;Freelancer+%F0%9F%92%A1;3rd+Year+IT+Student+%F0%9F%8E%93" alt="Typing SVG" />
-</h1>
-
-<!-- Status Badges -->
-<p>
-  <img src="https://img.shields.io/badge/🎓_Student-SFIT_IT_3rd_Year-ff6b6b?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📍_Location-Mumbai,_India-4ecdc4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/💼_Status-Open_For_Work-a8dadc?style=for-the-badge"/>
-</p>
+</div>
 
 <!-- Social Links -->
-<p>
-  <a href="https://github.com/Abhi0229"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/abhishekh-yadav-aa3b25272/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://abhi0229.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.upwork.com/freelancers/~01340da2d2baebede7"><img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
-  <a href="https://www.fiverr.com/abhishekh29/"><img src="https://img.shields.io/badge/Fiverr-00b22d?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
-  <a href="mailto:abhishekhyadav292619@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="center">
+  <a href="https://github.com/Abhi0229">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abhishekh-yadav-aa3b25272/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/abhiii0229">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:abhishekhyadav292619@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<!-- Stats Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Abhi0229&style=for-the-badge&color=4ecdc4"/>
-  <img src="https://img.shields.io/github/followers/Abhi0229?style=for-the-badge&color=ff6b6b"/>
-  <img src="https://img.shields.io/github/stars/Abhi0229?style=for-the-badge&color=a8dadc"/>
+<p align="center">
+  <a href="https://abhi0229.github.io/My-Portfolio/">
+    <img src="https://img.shields.io/badge/📄_Resume-667eea?style=for-the-badge"/>
+  </a>
+  <a href="mailto:abhishekhyadav292619@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Get_in_Touch-00d9ff?style=for-the-badge"/>
+  </a>
 </p>
 
-</div>
-
----
-
-<div align="center">
-
-## 🎮 ABOUT ME
-
-</div>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-```typescript
-class Abhishekh extends Developer {
-  constructor() {
-    super();
-    this.name = "Abhishekh Yadav";
-    this.location = "Mumbai, India 🇮🇳";
-    this.role = "Full-Stack Developer";
-  }
-
-  education() {
-    return {
-      degree: "B.E. Information Technology",
-      year: "3rd Year 🎓",
-      college: "St. Francis Institute of Technology",
-      status: "Learning & Building"
-    };
-  }
-
-  currentlyWorking() {
-    return [
-      "🔨 Building a Personal Website for Broker",
-      "📚 Mastering Full-Stack Development",
-      "🚀 Starting Freelance Career",
-      "💡 Planning My Own Startup"
-    ];
-  }
-
-  skills() {
-    return {
-      languages: ["JavaScript", "TypeScript", "Python"],
-      frontend: ["React", "Next.js", "Bootstrap"],
-      backend: ["Node.js", "Express", "Flask"],
-      databases: ["MongoDB", "PostgreSQL", "SQLite"],
-      tools: ["Git", "VS Code", "Postman", "Vercel"]
-    };
-  }
-
-  funFacts() {
-    return [
-      "⚡ I code with AI and love it!",
-      "🎯 Ship fast, iterate faster",
-      "☕ Powered by coffee and curiosity"
-    ];
-  }
-}
-
-const me = new Abhishekh();
-console.log("Let's build something amazing! 🚀");
-```
-
-<br clear="both"/>
-
----
-
-<div align="center">
-
-## 🛠️ TECH STACK
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<h3>💬 Languages</h3>
 <br/>
+
+<!-- Tech Stack Grid with Image -->
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+
+### Languages
+
 <img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark" />
+
 </td>
-<td align="center" width="25%">
-<h3>⚙️ Frameworks</h3>
+<td width="34%" align="center" valign="top">
+
+### Libraries & Frameworks
+
+<img src="https://skillicons.dev/icons?i=bootstrap,react,nextjs&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=express,flask,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" />
+
 </td>
-<td align="center" width="25%">
-<h3>🗄️ Databases</h3>
-<br/>
+<td width="33%" rowspan="2" align="center" valign="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+
+### Databases
+
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite&theme=dark" />
+
 </td>
-<td align="center" width="25%">
-<h3>🔧 Tools</h3>
+<td align="center" valign="top">
+
+### DevTools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=vercel,postman&theme=dark" />
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 📊 GITHUB STATS
-
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhi0229&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4ecdc4&icon_color=ff6b6b&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Abhi0229&theme=tokyonight&hide_border=true&background=1a1b27&ring=4ecdc4&fire=ff6b6b&currStreakLabel=4ecdc4" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi0229&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4ecdc4&text_color=ffffff" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi0229&bg_color=1a1b27&color=4ecdc4&line=ff6b6b&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-
-## 🚀 PROJECTS
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🎯 SkillVault
-**Skill Management & Job Platform**
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-Platform for skill management and job posting  
-**Role:** Frontend Developer | **Type:** Group
-
-[![](https://img.shields.io/badge/View_Code-ff6b6b?style=for-the-badge&logo=github)](https://github.com/Abhi0229/Skill_Vault)
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 💰 MoneyMap
-**Personal Finance Tracker**
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-Track expenses and manage your finances  
-**Role:** Frontend Developer | **Type:** Group
-
-[![](https://img.shields.io/badge/View_Code-4ecdc4?style=for-the-badge&logo=github)](https://github.com/Abhi0229/MoneyMap-Finance-Tracker)
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 💊 MediTrack
-**Pharmacy Management System**
-
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java_GUI-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-
-Complete pharmacy management application  
-**Role:** Frontend Developer | **Type:** Group
-
-[![](https://img.shields.io/badge/View_Code-a8dadc?style=for-the-badge&logo=github)](https://github.com/Abhi0229/MediTrack)
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🌐 My Portfolio
-**Personal Website**
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-My personal portfolio with smooth animations  
-**Type:** Solo Project | **Status:** Live ✅
-
-[![](https://img.shields.io/badge/View_Code-ff6b6b?style=for-the-badge&logo=github)](https://github.com/Abhi0229/My-Portfolio)
-[![](https://img.shields.io/badge/View_Live-4ecdc4?style=for-the-badge&logo=vercel)](https://abhi0229.github.io/My-Portfolio/)
-
-</div>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<!-- GitHub Stats Section -->
 <div align="center">
 
-[![](https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github)](https://github.com/Abhi0229?tab=repositories)
+## 📊 Github Stats
 
 </div>
 
----
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Abhi0229&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=ffffff&count_private=true" width="100%"/>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Abhi0229&theme=radical&hide_border=true&background=0d1117&ring=667eea&fire=f093fb&currStreakLabel=667eea&sideLabels=ffffff" width="100%"/>
+
+</td>
+<td width="34%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi0229&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&langs_count=6" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Contribution Graph -->
 <div align="center">
 
-## 🤝 LET'S CONNECT
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi0229&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%"/>
 
-### Open for Freelance Work | Collaborations | Opportunities
+</div>
 
-<table>
+<br/>
+
+<!-- Detailed Language Stats -->
+<table width="100%">
 <tr>
-<td align="center" width="33%">
+<td width="50%" align="center" valign="top">
+
+### 📊 Top Languages by Repo
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi0229&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&langs_count=5" width="90%"/>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 💻 Language Breakdown
+
+<br/>
+
+**🟨 JavaScript** `░░░░░░░░░░` 31.03%
+
+**🟦 TypeScript** `░░░░░░░░░░░░░░` 44.72%
+
+**🟩 Python** `░░░░░░░░` 23.96%
+
+**🟥 HTML** `░` 0.30%
+
+<br/>
+
+**Total:** 4 Languages
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Trophies -->
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abhi0229&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- Work Section -->
+<div align="center">
+
+<table width="80%">
+<tr>
+<td width="50%" align="center">
 
 ### 💼 Hire Me
-[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01340da2d2baebede7)
-[![Fiverr](https://img.shields.io/badge/Fiverr-00b22d?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/abhishekh29/)
+
+<a href="https://www.upwork.com/freelancers/~01340da2d2baebede7">
+  <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+<br/><br/>
+<a href="https://www.fiverr.com/abhishekh29/">
+  <img src="https://img.shields.io/badge/Fiverr-00b22d?style=for-the-badge&logo=fiverr&logoColor=white"/>
+</a>
 
 </td>
-<td align="center" width="33%">
+<td width="50%" align="center">
 
-### 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekh-yadav-aa3b25272/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhi0229.github.io/My-Portfolio/)
+### 🤝 Connect
 
-</td>
-<td align="center" width="33%">
-
-### 📧 Email Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekhyadav292619@gmail.com)
-
-**Response Time:** < 24 hrs
+<a href="https://www.linkedin.com/in/abhishekh-yadav-aa3b25272/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<br/><br/>
+<a href="https://abhi0229.github.io/My-Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 </td>
 </tr>
@@ -289,35 +196,19 @@ My personal portfolio with smooth animations
 
 </div>
 
----
+<br/>
 
+<!-- Footer -->
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abhi0229&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=Abhi0229&style=for-the-badge&color=667eea"/>
 
----
+**@Abhi0229**
 
-<!-- Snake Animation -->
-<div align="center">
+LinkedIn | Twitter | Instagram | Leetcode
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:4ecdc4,100:a8dadc&height=120&section=footer"/>
-
-**Built with 💜 by Abhishekh Yadav**
-
-*Student • Developer • Future Founder*
+© 2025 • All Rights Reserved
 
 </div>
