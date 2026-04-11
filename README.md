@@ -16,10 +16,7 @@
 <td><a href="https://x.com/abhiii0229"><img src="https://img.shields.io/badge/Twitter-%40abhiii0229-ff3c4e?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0d0d"/></a></td>
 <td><a href="mailto:abhishekhyadav292619@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail%20Me-ff3c4e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/></a></td>
 </tr><tr>
-<td><a href="https://www.upwork.com/freelancers/~01340da2d2baebede7"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-ff3c4e?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0d0d0d"/></a></td>
-<td><a href="https://www.freelancer.in/u/Abhii0229"><img src="https://img.shields.io/badge/Freelancer-Hire%20Me-ff3c4e?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=0d0d0d"/></a></td>
-<td><a href="https://www.fiverr.com/abhishekh29/"><img src="https://img.shields.io/badge/Fiverr-Hire%20Me-ff3c4e?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=0d0d0d"/></a></td>
-<td><a href="https://abhi0229.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-ff3c4e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d"/></a></td>
+<td colspan="4" align="center"><a href="https://www.upwork.com/freelancers/~01340da2d2baebede7"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-ff3c4e?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0d0d0d"/></a>&nbsp;&nbsp;<a href="https://www.freelancer.in/u/Abhii0229"><img src="https://img.shields.io/badge/Freelancer-Hire%20Me-ff3c4e?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=0d0d0d"/></a>&nbsp;&nbsp;<a href="https://www.fiverr.com/abhishekh29/"><img src="https://img.shields.io/badge/Fiverr-Hire%20Me-ff3c4e?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=0d0d0d"/></a></td>
 </tr></table>
 </div>
 
@@ -96,19 +93,27 @@ const abhishekh = {
 
 <table border="0">
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Abhi0229&show_icons=true&count_private=true&hide_border=false&bg_color=0d0d0d&title_color=ff3c4e&icon_color=ff3c4e&text_color=ffffff&border_color=ff3c4e&cache_seconds=1800" width="100%"/>
+<td colspan="2">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi0229&theme=radical" width="100%"/>
 </td>
-<td width="50%">
-<img src="https://streak-stats.demolab.com?user=Abhi0229&hide_border=false&background=0d0d0d&ring=ff3c4e&fire=ff3c4e&currStreakLabel=ff3c4e&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff&stroke=ff3c4e&border=ff3c4e" width="100%"/>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhi0229&theme=radical&utcOffset=5.5" width="100%"/>
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi0229&layout=compact&hide_border=false&bg_color=0d0d0d&title_color=ff3c4e&text_color=ffffff&border_color=ff3c4e&langs_count=8" width="60%"/>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhi0229&theme=radical" width="100%"/>
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhi0229&theme=radical" width="100%"/>
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhi0229&theme=radical" width="100%"/>
 </td>
 </tr>
 </table>
+
+<img src="https://streak-stats.demolab.com?user=Abhi0229&hide_border=false&background=0d0d0d&ring=ff3c4e&fire=ff3c4e&currStreakLabel=ff3c4e&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff&stroke=ff3c4e&border=ff3c4e" width="55%"/>
 
 </div>
 
