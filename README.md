@@ -94,21 +94,21 @@ const abhishekh = {
 <table border="0">
 <tr>
 <td colspan="2">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi0229&theme=radical" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi0229&theme=github_dark&bg_color=0d0d0d&title_color=ff3c4e&text_color=ffffff&border_color=ff3c4e" width="100%"/>
 </td>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhi0229&theme=radical&utcOffset=5.5" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhi0229&theme=github_dark&utcOffset=5.5&bg_color=0d0d0d&title_color=ff3c4e&text_color=ffffff&border_color=ff3c4e" width="100%"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhi0229&theme=radical" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhi0229&theme=github_dark&bg_color=0d0d0d&title_color=ff3c4e&text_color=ffffff&border_color=ff3c4e" width="100%"/>
 </td>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhi0229&theme=radical" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhi0229&theme=github_dark&bg_color=0d0d0d&title_color=ff3c4e&text_color=ffffff&border_color=ff3c4e" width="100%"/>
 </td>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhi0229&theme=radical" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhi0229&theme=github_dark&bg_color=0d0d0d&title_color=ff3c4e&text_color=ffffff&border_color=ff3c4e" width="100%"/>
 </td>
 </tr>
 </table>
