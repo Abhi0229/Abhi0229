@@ -1,194 +1,85 @@
-<!-- Header Banner -->
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:300000,100:0d0d0d&height=220&section=header&text=Abhishekh%20Yadav&fontSize=55&fontColor=ff3c4e&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60&descSize=18&descColor=ffffff"/>
+
+<!-- TYPING -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Hey%20👋%20!%20I'm%20Abhishekh%20Yadav&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=FF3C4E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%2B+Node.js+%2B+Firebase;Building+Products+That+Matter;Always+Learning%2C+Always+Building)](https://github.com/Abhi0229)
 
 </div>
 
-<!-- Social Links -->
-<p align="center">
-  <a href="https://github.com/Abhi0229">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abhishekh-yadav-aa3b25272/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/abhiii0229">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:abhishekhyadav292619@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://abhi0229.github.io/My-Portfolio/">
-    <img src="https://img.shields.io/badge/📄_Resume-667eea?style=for-the-badge"/>
-  </a>
-  <a href="mailto:abhishekhyadav292619@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Get_in_Touch-00d9ff?style=for-the-badge"/>
-  </a>
-</p>
-
-<br/>
-
-<!-- Tech Stack Grid with Image -->
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark" />
-
-</td>
-<td width="34%" align="center" valign="top">
-
-### Libraries & Frameworks
-
-<img src="https://skillicons.dev/icons?i=bootstrap,react,nextjs&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" />
-
-</td>
-<td width="33%" rowspan="2" align="center" valign="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="top">
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite&theme=dark" />
-
-</td>
-<td align="center" valign="top">
-
-### DevTools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=vercel,postman&theme=dark" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- GitHub Stats Section -->
+<!-- SOCIAL — 2 rows -->
 <div align="center">
-
-## 📊 Github Stats
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abhi0229&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=ffffff&count_private=true" width="100%"/>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Abhi0229&theme=radical&hide_border=true&background=0d1117&ring=667eea&fire=f093fb&currStreakLabel=667eea&sideLabels=ffffff" width="100%"/>
-
-</td>
-<td width="34%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi0229&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&langs_count=6" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Contribution Graph -->
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi0229&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%"/>
-
+<table border="0"><tr>
+<td><a href="https://github.com/Abhi0229"><img src="https://img.shields.io/badge/GitHub-Abhi0229-ff3c4e?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/></a></td>
+<td><a href="https://www.linkedin.com/in/abhishekh-yadav-aa3b25272/"><img src="https://img.shields.io/badge/LinkedIn-Connect-ff3c4e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/></a></td>
+<td><a href="https://x.com/abhiii0229"><img src="https://img.shields.io/badge/Twitter-%40abhiii0229-ff3c4e?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0d0d"/></a></td>
+<td><a href="mailto:abhishekhyadav292619@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail%20Me-ff3c4e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/></a></td>
+</tr><tr>
+<td><a href="https://www.upwork.com/freelancers/~01340da2d2baebede7"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-ff3c4e?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0d0d0d"/></a></td>
+<td><a href="https://www.freelancer.in/u/Abhii0229"><img src="https://img.shields.io/badge/Freelancer-Hire%20Me-ff3c4e?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=0d0d0d"/></a></td>
+<td><a href="https://www.fiverr.com/abhishekh29/"><img src="https://img.shields.io/badge/Fiverr-Hire%20Me-ff3c4e?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=0d0d0d"/></a></td>
+<td><a href="https://abhi0229.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-ff3c4e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d"/></a></td>
+</tr></table>
 </div>
 
 <br/>
 
-<!-- Detailed Language Stats -->
-<table width="100%">
+<!-- TERMINAL — ABOUT ME -->
+```js
+const abhishekh = {
+  name:       "Abhishekh Yadav",
+  location:   "India 🇮🇳",
+  role:       "Full Stack Developer",
+  stack:      ["React.js", "Node.js", "Firebase", "MongoDB", "Next.js"],
+  learning:   ["TypeScript", "System Design", "Next.js 15"],
+  available:  true,   // open to freelance & full-time opportunities
+  contact:    "abhishekhyadav292619@gmail.com",
+};
+```
+
+<br/>
+
+<!-- TECH STACK -->
+<div align="center">
+
+## ⚡ Tech Stack
+
+<table>
 <tr>
-<td width="50%" align="center" valign="top">
+<td align="center" width="22%">
 
-### 📊 Top Languages by Repo
+**Languages**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi0229&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&langs_count=5" width="90%"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark"/>
 
 </td>
-<td width="50%" align="center" valign="top">
+<td align="center" width="40%">
 
-### 💻 Language Breakdown
+**Libraries & Frameworks**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,flask&theme=dark"/>
 
-**🟨 JavaScript** `░░░░░░░░░░` 31.03%
+</td>
+<td align="center" rowspan="2" width="38%">
 
-**🟦 TypeScript** `░░░░░░░░░░░░░░` 44.72%
-
-**🟩 Python** `░░░░░░░░` 23.96%
-
-**🟥 HTML** `░` 0.30%
-
-<br/>
-
-**Total:** 4 Languages
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="85%"/>
 
 </td>
 </tr>
-</table>
-
-<br/>
-
-<!-- Trophies -->
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abhi0229&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
-
-</div>
-
-<br/>
-
-<!-- Work Section -->
-<div align="center">
-
-<table width="80%">
 <tr>
-<td width="50%" align="center">
+<td align="center">
 
-### 💼 Hire Me
+**Databases**
 
-<a href="https://www.upwork.com/freelancers/~01340da2d2baebede7">
-  <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/>
-</a>
-<br/><br/>
-<a href="https://www.fiverr.com/abhishekh29/">
-  <img src="https://img.shields.io/badge/Fiverr-00b22d?style=for-the-badge&logo=fiverr&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres,sqlite&theme=dark"/>
 
 </td>
-<td width="50%" align="center">
+<td align="center">
 
-### 🤝 Connect
+**DevTools**
 
-<a href="https://www.linkedin.com/in/abhishekh-yadav-aa3b25272/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<br/><br/>
-<a href="https://abhi0229.github.io/My-Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel&theme=dark"/>
 
 </td>
 </tr>
@@ -198,17 +89,61 @@
 
 <br/>
 
-<!-- Footer -->
+<!-- GITHUB STATS -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
+## 📊 GitHub Stats
 
-<img src="https://komarev.com/ghpvc/?username=Abhi0229&style=for-the-badge&color=667eea"/>
+<table border="0">
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Abhi0229&show_icons=true&count_private=true&hide_border=false&bg_color=0d0d0d&title_color=ff3c4e&icon_color=ff3c4e&text_color=ffffff&border_color=ff3c4e&cache_seconds=1800" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://streak-stats.demolab.com?user=Abhi0229&hide_border=false&background=0d0d0d&ring=ff3c4e&fire=ff3c4e&currStreakLabel=ff3c4e&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff&stroke=ff3c4e&border=ff3c4e" width="100%"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi0229&layout=compact&hide_border=false&bg_color=0d0d0d&title_color=ff3c4e&text_color=ffffff&border_color=ff3c4e&langs_count=8" width="60%"/>
+</td>
+</tr>
+</table>
 
-**@Abhi0229**
+</div>
 
-LinkedIn | Twitter | Instagram | Leetcode
+<br/>
 
-© 2025 • All Rights Reserved
+<!-- ACTIVITY GRAPH -->
+<div align="center">
 
+## 📈 Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi0229&bg_color=0d0d0d&color=ff3c4e&line=ff3c4e&point=ffffff&area=true&area_color=ff3c4e&hide_border=false&border_color=ff3c4e&custom_title=Contribution+Graph" width="97%"/>
+
+</div>
+
+<br/>
+
+<!-- CONNECT -->
+<div align="center">
+
+## 🤝 Connect
+
+<table border="0"><tr>
+<td><a href="https://www.linkedin.com/in/abhishekh-yadav-aa3b25272/"><img src="https://img.shields.io/badge/LinkedIn-ff3c4e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/></a></td>
+<td><a href="https://x.com/abhiii0229"><img src="https://img.shields.io/badge/Twitter-ff3c4e?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0d0d"/></a></td>
+<td><a href="mailto:abhishekhyadav292619@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff3c4e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/></a></td>
+<td><a href="https://www.upwork.com/freelancers/~01340da2d2baebede7"><img src="https://img.shields.io/badge/Upwork-ff3c4e?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0d0d0d"/></a></td>
+<td><a href="https://www.fiverr.com/abhishekh29/"><img src="https://img.shields.io/badge/Fiverr-ff3c4e?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=0d0d0d"/></a></td>
+<td><a href="https://www.freelancer.in/u/Abhii0229"><img src="https://img.shields.io/badge/Freelancer-ff3c4e?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=0d0d0d"/></a></td>
+</tr></table>
+
+</div>
+
+<!-- FOOTER -->
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:300000,100:0d0d0d&height=140&section=footer&text=%40Abhi0229&fontSize=22&fontColor=ff3c4e&fontAlignY=55"/>
+
+<img src="https://komarev.com/ghpvc/?username=Abhi0229&style=for-the-badge&color=ff3c4e&labelColor=0d0d0d&label=Profile+Views"/>
 </div>
