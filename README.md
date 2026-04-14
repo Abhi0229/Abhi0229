@@ -94,26 +94,26 @@ const abhishekh = {
 <table border="0">
 <tr>
 <td colspan="2">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi0229&theme=github_dark&bg_color=0d0d0d&title_color=ff3c4e&text_color=ffffff&border_color=ff3c4e" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi0229&theme=github_dark&bg_color=0d0d0d&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=ff3c4e" width="100%"/>
 </td>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhi0229&theme=github_dark&utcOffset=5.5&bg_color=0d0d0d&title_color=ff3c4e&text_color=ffffff&border_color=ff3c4e" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhi0229&theme=github_dark&utcOffset=5.5&bg_color=0d0d0d&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=ff3c4e" width="100%"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhi0229&theme=github_dark&bg_color=0d0d0d&title_color=ff3c4e&text_color=ffffff&border_color=ff3c4e" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhi0229&theme=github_dark&bg_color=0d0d0d&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=ff3c4e" width="100%"/>
 </td>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhi0229&theme=github_dark&bg_color=0d0d0d&title_color=ff3c4e&text_color=ffffff&border_color=ff3c4e" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhi0229&theme=github_dark&bg_color=0d0d0d&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=ff3c4e" width="100%"/>
 </td>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhi0229&theme=github_dark&bg_color=0d0d0d&title_color=ff3c4e&text_color=ffffff&border_color=ff3c4e" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhi0229&theme=github_dark&bg_color=0d0d0d&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=ff3c4e" width="100%"/>
 </td>
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=Abhi0229&hide_border=false&background=0d0d0d&ring=ff3c4e&fire=ff3c4e&currStreakLabel=ff3c4e&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff&stroke=ff3c4e&border=ff3c4e" width="55%"/>
+<img src="https://streak-stats.demolab.com?user=Abhi0229&hide_border=false&background=0d0d0d&ring=ff3c4e&fire=ff3c4e&currStreakLabel=ff3c4e&sideLabels=ff3c4e&dates=ff3c4e&currStreakNum=ffffff&sideNums=ffffff&stroke=ff3c4e&border=ff3c4e&dates=888888" width="55%"/>
 
 </div>
 
