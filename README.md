@@ -135,8 +135,7 @@ const abhishekh = {
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=Abhi0229&hide_border=false&background=000000&ring=ff3c4e&fire=ff3c4e&currStreakLabel=ff3c4e&sideLabels=ff3c4e&currStreakNum=ffffff&sideNums=ffffff&stroke=ff3c4e&border=ff3c4e&dates=888888&mode=weekly" width="60%"/>
-
+<img src="https://streak-stats.demolab.com?user=Abhi0229&hide_border=true&background=000000&ring=ff3c4e&fire=ff3c4e&currStreakLabel=ff3c4e&sideLabels=ff3c4e&currStreakNum=ffffff&sideNums=ffffff&dates=666666&stroke=000000" />
 </div>
 
 <br/>
@@ -146,8 +145,7 @@ const abhishekh = {
 
 ## 📈 Activity
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi0229&bg_color=000000&color=ff3c4e&line=ff3c4e&point=ffffff&area=true&area_color=1a0005&hide_border=false&border_color=ff3c4e&custom_title=Contribution+Graph&radius=8"/>
-
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi0229&bg_color=000000&color=ff3c4e&line=ff3c4e&point=ffffff&area=true&area_color=1a0005&hide_border=true"/>
 </div>
 
 <br/>
