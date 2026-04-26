@@ -18,12 +18,16 @@
 <!-- SOCIAL — 2 rows -->
 <div align="center">
 <table border="0"><tr>
-<td><a href="https://github.com/Abhi0229"><img src="https://img.shields.io/badge/GitHub-Abhi0229-ff3c4e?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/></a></td>
-<td><a href="https://www.linkedin.com/in/abhishekh-yadav-aa3b25272/"><img src="https://img.shields.io/badge/LinkedIn-Connect-ff3c4e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/></a></td>
-<td><a href="https://x.com/abhiii0229"><img src="https://img.shields.io/badge/Twitter-%40abhiii0229-ff3c4e?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0d0d"/></a></td>
-<td><a href="mailto:abhishekhyadav292619@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail%20Me-ff3c4e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/></a></td>
+<td><a href="https://github.com/Abhi0229"><img src="https://img.shields.io/badge/GitHub-Abhi0229-ff3c4e?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=ff3c4e"/></a></td>
+<td><a href="https://www.linkedin.com/in/abhishekh-yadav-aa3b25272/"><img src="https://img.shields.io/badge/LinkedIn-Connect-ff3c4e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=ff3c4e"/></a></td>
+<td><a href="https://x.com/abhiii0229"><img src="https://img.shields.io/badge/Twitter-%40abhiii0229-ff3c4e?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000&color=ff3c4e"/></a></td>
+<td><a href="mailto:abhishekhyadav292619@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail%20Me-ff3c4e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=ff3c4e"/></a></td>
 </tr><tr>
-<td colspan="4" align="center"><a href="https://www.upwork.com/freelancers/~01340da2d2baebede7"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-ff3c4e?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0d0d0d"/></a>&nbsp;&nbsp;<a href="https://www.freelancer.in/u/Abhii0229"><img src="https://img.shields.io/badge/Freelancer-Hire%20Me-ff3c4e?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=0d0d0d"/></a>&nbsp;&nbsp;<a href="https://www.fiverr.com/abhishekh29/"><img src="https://img.shields.io/badge/Fiverr-Hire%20Me-ff3c4e?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=0d0d0d"/></a></td>
+<td colspan="4" align="center">
+<a href="https://www.upwork.com/freelancers/~01340da2d2baebede7"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-ff3c4e?style=for-the-badge&logo=upwork&logoColor=white&labelColor=000000&color=ff3c4e"/></a>&nbsp;&nbsp;
+<a href="https://www.freelancer.in/u/Abhii0229"><img src="https://img.shields.io/badge/Freelancer-Hire%20Me-ff3c4e?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=000000&color=ff3c4e"/></a>&nbsp;&nbsp;
+<a href="https://www.fiverr.com/abhishekh29/"><img src="https://img.shields.io/badge/Fiverr-Hire%20Me-ff3c4e?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=000000&color=ff3c4e"/></a>&nbsp;&nbsp;
+</td>
 </tr></table>
 </div>
 
@@ -108,11 +112,28 @@ const abhishekh = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="220em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhi0229&show_icons=true&theme=dark&bg_color=000000&title_color=ff3c4e&icon_color=ff3c4e&text_color=ffffff&border_color=ff3c4e&border_radius=8&hide_rank=true&show=prs_merged,prs_merged_percentage"/>
-<img height="220em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi0229&layout=compact&theme=dark&bg_color=000000&title_color=ff3c4e&text_color=ffffff&border_color=ff3c4e&border_radius=8&langs_count=6"/>
-<br/><br/>
+<table border="0">
+<tr>
+<td colspan="2">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi0229&theme=github_dark&bg_color=0d0d0d&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=ff3c4e" width="100%"/>
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhi0229&theme=github_dark&utcOffset=5.5&bg_color=0d0d0d&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=ff3c4e" width="100%"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhi0229&theme=github_dark&bg_color=0d0d0d&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=ff3c4e" width="100%"/>
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhi0229&theme=github_dark&bg_color=0d0d0d&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=ff3c4e" width="100%"/>
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhi0229&theme=github_dark&bg_color=0d0d0d&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=ff3c4e" width="100%"/>
+</td>
+</tr>
+</table>
 
 <img src="https://streak-stats.demolab.com?user=Abhi0229&hide_border=false&background=000000&ring=ff3c4e&fire=ff3c4e&currStreakLabel=ff3c4e&sideLabels=ff3c4e&currStreakNum=ffffff&sideNums=ffffff&stroke=ff3c4e&border=ff3c4e&dates=888888&mode=weekly" width="60%"/>
 
@@ -136,13 +157,14 @@ const abhishekh = {
 
 ## 🤝 Connect
 
+<div align="center">
 <table border="0"><tr>
-<td><a href="https://www.linkedin.com/in/abhishekh-yadav-aa3b25272/"><img src="https://img.shields.io/badge/LinkedIn-ff3c4e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/></a></td>
-<td><a href="https://x.com/abhiii0229"><img src="https://img.shields.io/badge/Twitter-ff3c4e?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0d0d"/></a></td>
-<td><a href="mailto:abhishekhyadav292619@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff3c4e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/></a></td>
-<td><a href="https://www.upwork.com/freelancers/~01340da2d2baebede7"><img src="https://img.shields.io/badge/Upwork-ff3c4e?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0d0d0d"/></a></td>
-<td><a href="https://www.fiverr.com/abhishekh29/"><img src="https://img.shields.io/badge/Fiverr-ff3c4e?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=0d0d0d"/></a></td>
-<td><a href="https://www.freelancer.in/u/Abhii0229"><img src="https://img.shields.io/badge/Freelancer-ff3c4e?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=0d0d0d"/></a></td>
+<td><a href="https://www.linkedin.com/in/abhishekh-yadav-aa3b25272/"><img src="https://img.shields.io/badge/LinkedIn-ff3c4e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=ff3c4e"/></a></td>
+<td><a href="https://x.com/abhiii0229"><img src="https://img.shields.io/badge/Twitter-ff3c4e?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000&color=ff3c4e"/></a></td>
+<td><a href="mailto:abhishekhyadav292619@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff3c4e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=ff3c4e"/></a></td>
+<td><a href="https://www.upwork.com/freelancers/~01340da2d2baebede7"><img src="https://img.shields.io/badge/Upwork-ff3c4e?style=for-the-badge&logo=upwork&logoColor=white&labelColor=000000&color=ff3c4e"/></a></td>
+<td><a href="https://www.fiverr.com/abhishekh29/"><img src="https://img.shields.io/badge/Fiverr-ff3c4e?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=000000&color=ff3c4e"/></a></td>
+<td><a href="https://www.freelancer.in/u/Abhii0229"><img src="https://img.shields.io/badge/Freelancer-ff3c4e?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=000000&color=ff3c4e"/></a></td>
 </tr></table>
 
 </div>
@@ -151,5 +173,5 @@ const abhishekh = {
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:300000,100:0d0d0d&height=140&section=footer&text=%40Abhi0229&fontSize=22&fontColor=ff3c4e&fontAlignY=55"/>
 
-<img src="https://komarev.com/ghpvc/?username=Abhi0229&style=for-the-badge&color=ff3c4e&labelColor=0d0d0d&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=Abhi0229&style=for-the-badge&color=ff3c4e&labelColor=000000&label=Profile+Views"/>
 </div>
