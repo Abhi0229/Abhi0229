@@ -1,48 +1,29 @@
-<!-- OPEN TO WORK BANNER -->
-<div align="center">
-<img src="https://img.shields.io/badge/🟢%20OPEN%20TO%20WORK-Available%20for%20Freelance%20%26%20Full--Time-ff3c4e?style=for-the-badge&labelColor=000000"/>
-</div>
-
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0005,100:000000&height=220&section=header&text=Abhishekh%20Yadav&fontSize=55&fontColor=ff3c4e&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Security%20Enthusiast&descAlignY=60&descSize=18&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:300000,100:0d0d0d&height=220&section=header&text=Abhishekh%20Yadav&fontSize=55&fontColor=ff3c4e&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60&descSize=18&descColor=ffffff"/>
 
 <!-- TYPING -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=FF3C4E&center=true&vCenter=true&width=600&lines=I+build+it.+I+break+it.+I+make+it+better.;Full+Stack+Developer+%2B+Security+Mindset;React+%2B+Node.js+%2B+Firebase;The+best+builders+know+how+to+break+things.;Always+Learning%2C+Always+Building)](https://github.com/Abhi0229)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=FF3C4E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%2B+Node.js+%2B+Firebase;Building+Products+That+Matter;Always+Learning%2C+Always+Building)](https://github.com/Abhi0229)
 
+</div><br/><div align="center">
+
+<img src="https://img.shields.io/badge/_%22%20Building%20Secure%20Systems%20%26%20Breaking%20Insecure%20Ones%20%22_-000000?style=for-the-badge&labelColor=000000&color=000000&logoColor=ff3c4e"/>
+
+<br/> 
+
+> -Abhishekh Yadav
 </div>
 
-<br/>
-
-<!-- SIGNATURE QUOTE -->
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   " Build secure. Break insecure. Repeat until perfect. "   ║
-║                                                              ║
-║              — Abhishekh Yadav, Full Stack Dev               ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<!-- SOCIAL -->
+<!-- SOCIAL — 2 rows -->
 <div align="center">
 <table border="0"><tr>
-<td><a href="https://github.com/Abhi0229"><img src="https://img.shields.io/badge/GitHub-Abhi0229-ff3c4e?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
-<td><a href="https://www.linkedin.com/in/abhishekh-yadav-aa3b25272/"><img src="https://img.shields.io/badge/LinkedIn-Connect-ff3c4e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/></a></td>
-<td><a href="https://x.com/abhiii0229"><img src="https://img.shields.io/badge/Twitter-%40abhiii0229-ff3c4e?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000"/></a></td>
-<td><a href="mailto:abhishekhyadav292619@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail%20Me-ff3c4e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/></a></td>
+<td><a href="https://github.com/Abhi0229"><img src="https://img.shields.io/badge/GitHub-Abhi0229-ff3c4e?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/></a></td>
+<td><a href="https://www.linkedin.com/in/abhishekh-yadav-aa3b25272/"><img src="https://img.shields.io/badge/LinkedIn-Connect-ff3c4e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/></a></td>
+<td><a href="https://x.com/abhiii0229"><img src="https://img.shields.io/badge/Twitter-%40abhiii0229-ff3c4e?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0d0d"/></a></td>
+<td><a href="mailto:abhishekhyadav292619@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail%20Me-ff3c4e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/></a></td>
 </tr><tr>
-<td colspan="4" align="center">
-<a href="https://www.upwork.com/freelancers/~01340da2d2baebede7"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-ff3c4e?style=for-the-badge&logo=upwork&logoColor=white&labelColor=000000"/></a>&nbsp;&nbsp;
-<a href="https://www.freelancer.in/u/Abhii0229"><img src="https://img.shields.io/badge/Freelancer-Hire%20Me-ff3c4e?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=000000"/></a>&nbsp;&nbsp;
-<a href="https://www.fiverr.com/abhishekh29/"><img src="https://img.shields.io/badge/Fiverr-Hire%20Me-ff3c4e?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=000000"/></a>&nbsp;&nbsp;
-<a href="https://portfolio-eosin-xi-66.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-ff3c4e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/></a>
-</td>
+<td colspan="4" align="center"><a href="https://www.upwork.com/freelancers/~01340da2d2baebede7"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-ff3c4e?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0d0d0d"/></a>&nbsp;&nbsp;<a href="https://www.freelancer.in/u/Abhii0229"><img src="https://img.shields.io/badge/Freelancer-Hire%20Me-ff3c4e?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=0d0d0d"/></a>&nbsp;&nbsp;<a href="https://www.fiverr.com/abhishekh29/"><img src="https://img.shields.io/badge/Fiverr-Hire%20Me-ff3c4e?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=0d0d0d"/></a></td>
 </tr></table>
 </div>
 
@@ -51,13 +32,12 @@
 <!-- TERMINAL — ABOUT ME -->
 ```js
 const abhishekh = {
-  role       : "Full Stack Developer + Security Enthusiast",
-  philosophy : "The best builders know how to break things",
-  stack      : ["React", "Next.js", "Node.js", "Firebase", "Python"],
-  security   : ["Ethical Hacking", "Web App Pentesting", "OSINT"],
-  currently  : "Building products that solve real-world problems",
-  mission    : "Code by day. Break by night. Ship always.",
-  status     : "🟢 Available for opportunities"
+  role: "Full Stack Developer",
+  mode: "BUILDING + LEARNING",
+  focus: "Real-world applications & scalable systems",
+  security: "Exploring ethical hacking",
+  mission: "Turning ideas into products",
+  status: "Available for opportunities"
 };
 ```
 
@@ -68,90 +48,73 @@ const abhishekh = {
 
 ## ⚡ Tech Stack
 
-<br/>
+<table>
+<tr>
+<td align="center" width="22%">
 
-**— Languages —**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css&perline=5&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark"/>
 
-<br/><br/>
+</td>
+<td align="center" width="40%">
 
-**— Frontend —**
+**Libraries & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&perline=5&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,flask&theme=dark"/>
 
-<br/><br/>
+</td>
+<td align="center" rowspan="2" width="38%">
 
-**— Backend & Database —**
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="85%"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgres&perline=5&theme=dark"/>
+</td>
+</tr>
+<tr>
+<td align="center">
 
-<br/><br/>
+**Databases**
 
-**— DevTools & Platforms —**
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres,sqlite&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,postman&perline=6&theme=dark"/>
+</td>
+<td align="center">
 
-<br/><br/>
+**DevTools**
 
-**— Security Arsenal —**
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=linux,bash&theme=dark"/>
-&nbsp;&nbsp;
+</td>
+</tr>
+</table></div><br/><!-- SECURITY ARSENAL --><div align="center">
+
+🛡️ Security Arsenal
+<tr>
+<td align="center">
 <img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=ff3c4e"/>
 <img src="https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=ff3c4e"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=ff3c4e"/>
 <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=ff3c4e"/>
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logoColor=ff3c4e"/>
 <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logoColor=ff3c4e"/>
-
+<img src="https://img.shields.io/badge/Web%20Pentesting-000000?style=for-the-badge&logo=owasp&logoColor=ff3c4e"/>
 </div>
-
 <br/>
-
-<!-- GITHUB TROPHIES -->
+<!-- GITHUB STATS -->
 <div align="center">
-
-## 🏆 GitHub Trophies
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abhi0229&theme=radical&no-frame=false&no-bg=false&column=4&margin-w=8&margin-h=8" width="90%"/>
-
-</div>
-
-<br/>
 
 <!-- GITHUB STATS -->
 <div align="center">
 
 ## 📊 GitHub Stats
 
-<br/>
+<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi0229&theme=github_dark&bg_color=000000&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=300000" width="100%"/>
+<img height="220em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhi0229&show_icons=true&theme=dark&bg_color=000000&title_color=ff3c4e&icon_color=ff3c4e&text_color=ffffff&border_color=ff3c4e&border_radius=8&hide_rank=true&show=prs_merged,prs_merged_percentage"/>
+<img height="220em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi0229&layout=compact&theme=dark&bg_color=000000&title_color=ff3c4e&text_color=ffffff&border_color=ff3c4e&border_radius=8&langs_count=6"/>
+<br/><br/>
 
-<br/>
-
-<table border="0">
-<tr>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhi0229&theme=github_dark&bg_color=000000&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=300000"/>
-</td>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhi0229&theme=github_dark&bg_color=000000&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=300000"/>
-</td>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhi0229&theme=github_dark&bg_color=000000&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=300000"/>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhi0229&theme=github_dark&utcOffset=5.5&bg_color=000000&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=300000" width="100%"/>
-</td>
-<td>
-<img src="https://streak-stats.demolab.com?user=Abhi0229&hide_border=false&background=000000&ring=ff3c4e&fire=ff3c4e&currStreakLabel=ff3c4e&sideLabels=ff3c4e&currStreakNum=ffffff&sideNums=ffffff&stroke=300000&border=300000&dates=888888" width="100%"/>
-</td>
-</tr>
-</table>
+<img src="https://streak-stats.demolab.com?user=Abhi0229&hide_border=false&background=000000&ring=ff3c4e&fire=ff3c4e&currStreakLabel=ff3c4e&sideLabels=ff3c4e&currStreakNum=ffffff&sideNums=ffffff&stroke=ff3c4e&border=ff3c4e&dates=888888&mode=weekly" width="60%"/>
 
 </div>
 
@@ -160,27 +123,9 @@ const abhishekh = {
 <!-- ACTIVITY GRAPH -->
 <div align="center">
 
-## 📈 Contribution Activity
+## 📈 Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi0229&bg_color=000000&color=ff3c4e&line=ff3c4e&point=ffffff&area=true&area_color=300000&hide_border=false&border_color=300000&custom_title=Contribution+Graph" width="97%"/>
-
-</div>
-
-<br/>
-
-<!-- FUN FACTS -->
-<div align="center">
-
-## ⚡ Fun Facts
-
-| | |
-|:---:|:---|
-| 🔴 | I write code to build things — then break them to make them stronger |
-| 🌐 | Every app I ship gets mentally pentested before it goes live |
-| 🛡️ | I believe security isn't a feature — it's a foundation |
-| ☕ | Coffee consumption directly correlates with lines of code written |
-| 🌙 | Best commits happen after midnight |
-| 🎯 | Currently on a mission: build 10 real products before 2026 |
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi0229&bg_color=000000&color=ff3c4e&line=ff3c4e&point=ffffff&area=true&area_color=1a0005&hide_border=false&border_color=ff3c4e&custom_title=Contribution+Graph&radius=8"/>
 
 </div>
 
@@ -189,24 +134,22 @@ const abhishekh = {
 <!-- CONNECT -->
 <div align="center">
 
-## 🤝 Let's Connect
-
-> *"Whether it's a web project, a security audit, or just a conversation — I'm always open to connecting with the right people."*
+## 🤝 Connect
 
 <table border="0"><tr>
-<td><a href="https://www.linkedin.com/in/abhishekh-yadav-aa3b25272/"><img src="https://img.shields.io/badge/LinkedIn-ff3c4e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/></a></td>
-<td><a href="https://x.com/abhiii0229"><img src="https://img.shields.io/badge/Twitter-ff3c4e?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000"/></a></td>
-<td><a href="mailto:abhishekhyadav292619@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff3c4e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/></a></td>
-<td><a href="https://www.upwork.com/freelancers/~01340da2d2baebede7"><img src="https://img.shields.io/badge/Upwork-ff3c4e?style=for-the-badge&logo=upwork&logoColor=white&labelColor=000000"/></a></td>
-<td><a href="https://www.fiverr.com/abhishekh29/"><img src="https://img.shields.io/badge/Fiverr-ff3c4e?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=000000"/></a></td>
-<td><a href="https://www.freelancer.in/u/Abhii0229"><img src="https://img.shields.io/badge/Freelancer-ff3c4e?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=000000"/></a></td>
+<td><a href="https://www.linkedin.com/in/abhishekh-yadav-aa3b25272/"><img src="https://img.shields.io/badge/LinkedIn-ff3c4e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/></a></td>
+<td><a href="https://x.com/abhiii0229"><img src="https://img.shields.io/badge/Twitter-ff3c4e?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0d0d"/></a></td>
+<td><a href="mailto:abhishekhyadav292619@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff3c4e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/></a></td>
+<td><a href="https://www.upwork.com/freelancers/~01340da2d2baebede7"><img src="https://img.shields.io/badge/Upwork-ff3c4e?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0d0d0d"/></a></td>
+<td><a href="https://www.fiverr.com/abhishekh29/"><img src="https://img.shields.io/badge/Fiverr-ff3c4e?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=0d0d0d"/></a></td>
+<td><a href="https://www.freelancer.in/u/Abhii0229"><img src="https://img.shields.io/badge/Freelancer-ff3c4e?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=0d0d0d"/></a></td>
 </tr></table>
 
 </div>
 
 <!-- FOOTER -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0005,100:000000&height=140&section=footer&text=%40Abhi0229&fontSize=22&fontColor=ff3c4e&fontAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:300000,100:0d0d0d&height=140&section=footer&text=%40Abhi0229&fontSize=22&fontColor=ff3c4e&fontAlignY=55"/>
 
-<img src="https://komarev.com/ghpvc/?username=Abhi0229&style=for-the-badge&color=ff3c4e&labelColor=000000&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=Abhi0229&style=for-the-badge&color=ff3c4e&labelColor=0d0d0d&label=Profile+Views"/>
 </div>
