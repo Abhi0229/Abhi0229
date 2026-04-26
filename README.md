@@ -1,4 +1,4 @@
-# <!-- OPEN TO WORK BANNER -->
+<!-- OPEN TO WORK BANNER -->
 <div align="center">
 <img src="https://img.shields.io/badge/🟢%20OPEN%20TO%20WORK-Available%20for%20Freelance%20%26%20Full--Time-ff3c4e?style=for-the-badge&labelColor=000000"/>
 </div>
@@ -29,7 +29,7 @@
 
 </div>
 
-<!-- SOCIAL — 2 rows -->
+<!-- SOCIAL -->
 <div align="center">
 <table border="0"><tr>
 <td><a href="https://github.com/Abhi0229"><img src="https://img.shields.io/badge/GitHub-Abhi0229-ff3c4e?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
@@ -68,103 +68,40 @@ const abhishekh = {
 
 ## ⚡ Tech Stack
 
-<table>
-<tr>
-<td align="center" width="22%">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark"/>
-
-</td>
-<td align="center" width="40%">
-
-**Libraries & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,flask&theme=dark"/>
-
-</td>
-<td align="center" rowspan="2" width="38%">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="85%"/>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres,sqlite&theme=dark"/>
-
-</td>
-<td align="center">
-
-**DevTools**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel&theme=dark"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
 <br/>
 
-<!-- SECURITY ARSENAL -->
-<div align="center">
+**— Languages —**
 
-## 🛡️ Security Arsenal
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css&perline=5&theme=dark"/>
 
+<br/><br/>
+
+**— Frontend —**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&perline=5&theme=dark"/>
+
+<br/><br/>
+
+**— Backend & Database —**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgres&perline=5&theme=dark"/>
+
+<br/><br/>
+
+**— DevTools & Platforms —**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,postman&perline=6&theme=dark"/>
+
+<br/><br/>
+
+**— Security Arsenal —**
+
+<img src="https://skillicons.dev/icons?i=linux,bash&theme=dark"/>
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=ff3c4e"/>
 <img src="https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=ff3c4e"/>
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=ff3c4e"/>
 <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=ff3c4e"/>
-<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=ff3c4e"/>
-<img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=target&logoColor=ff3c4e"/>
-<img src="https://img.shields.io/badge/Web%20App%20Pentesting-000000?style=for-the-badge&logo=owasp&logoColor=ff3c4e"/>
-
-</div>
-
-<br/>
-
-<!-- FEATURED PROJECTS -->
-<div align="center">
-
-## 🚀 Featured Projects
-
-<table border="0">
-<tr>
-<td width="50%" align="center">
-
-**🔐 Personal Portfolio + Admin CMS**
-<br/>
-Full Stack portfolio with a complete admin dashboard.
-Firebase backend, Next.js 14, glassmorphism UI.
-<br/><br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=ff3c4e"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=ff3c4e"/>
-<br/><br/>
-<a href="https://portfolio-eosin-xi-66.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-ff3c4e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/></a>
-<a href="https://github.com/Abhi0229"><img src="https://img.shields.io/badge/Source-000000?style=for-the-badge&logo=github&logoColor=ff3c4e"/></a>
-
-</td>
-<td width="50%" align="center">
-
-**🛡️ More Projects Coming Soon**
-<br/>
-Currently building security tools and
-full stack applications.
-<br/><br/>
-<img src="https://img.shields.io/badge/Status-In%20Progress-ff3c4e?style=flat-square&labelColor=000000"/>
-<br/><br/>
-<a href="https://github.com/Abhi0229?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repos-000000?style=for-the-badge&logo=github&logoColor=ff3c4e"/></a>
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logoColor=ff3c4e"/>
 
 </div>
 
@@ -175,7 +112,9 @@ full stack applications.
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abhi0229&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" width="100%"/>
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abhi0229&theme=radical&no-frame=false&no-bg=false&column=4&margin-w=8&margin-h=8" width="90%"/>
 
 </div>
 
@@ -186,29 +125,33 @@ full stack applications.
 
 ## 📊 GitHub Stats
 
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi0229&theme=github_dark&bg_color=000000&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=300000" width="100%"/>
+
+<br/>
+
 <table border="0">
 <tr>
-<td colspan="2">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi0229&theme=github_dark&bg_color=000000&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=ff3c4e" width="100%"/>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhi0229&theme=github_dark&bg_color=000000&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=300000"/>
 </td>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhi0229&theme=github_dark&utcOffset=5.5&bg_color=000000&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=ff3c4e" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhi0229&theme=github_dark&bg_color=000000&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=300000"/>
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhi0229&theme=github_dark&bg_color=000000&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=300000"/>
 </td>
 </tr>
 <tr>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhi0229&theme=github_dark&bg_color=000000&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=ff3c4e" width="100%"/>
+<td colspan="2">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhi0229&theme=github_dark&utcOffset=5.5&bg_color=000000&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=300000" width="100%"/>
 </td>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhi0229&theme=github_dark&bg_color=000000&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=ff3c4e" width="100%"/>
-</td>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhi0229&theme=github_dark&bg_color=000000&title_color=ff3c4e&text_color=ffffff&icon_color=ff3c4e&border_color=ff3c4e" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Abhi0229&hide_border=false&background=000000&ring=ff3c4e&fire=ff3c4e&currStreakLabel=ff3c4e&sideLabels=ff3c4e&currStreakNum=ffffff&sideNums=ffffff&stroke=300000&border=300000&dates=888888" width="100%"/>
 </td>
 </tr>
 </table>
-
-<img src="https://streak-stats.demolab.com?user=Abhi0229&hide_border=false&background=000000&ring=ff3c4e&fire=ff3c4e&currStreakLabel=ff3c4e&sideLabels=ff3c4e&currStreakNum=ffffff&sideNums=ffffff&stroke=ff3c4e&border=ff3c4e&dates=888888" width="55%"/>
 
 </div>
 
@@ -217,9 +160,9 @@ full stack applications.
 <!-- ACTIVITY GRAPH -->
 <div align="center">
 
-## 📈 Activity
+## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi0229&bg_color=000000&color=ff3c4e&line=ff3c4e&point=ffffff&area=true&area_color=ff3c4e&hide_border=false&border_color=ff3c4e&custom_title=Contribution+Graph" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi0229&bg_color=000000&color=ff3c4e&line=ff3c4e&point=ffffff&area=true&area_color=300000&hide_border=false&border_color=300000&custom_title=Contribution+Graph" width="97%"/>
 
 </div>
 
@@ -232,7 +175,7 @@ full stack applications.
 
 | | |
 |:---:|:---|
-| 🔴 | I write code to build things and then break them to make them stronger |
+| 🔴 | I write code to build things — then break them to make them stronger |
 | 🌐 | Every app I ship gets mentally pentested before it goes live |
 | 🛡️ | I believe security isn't a feature — it's a foundation |
 | ☕ | Coffee consumption directly correlates with lines of code written |
