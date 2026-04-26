@@ -25,13 +25,12 @@
 <!-- TERMINAL — ABOUT ME -->
 ```js
 const abhishekh = {
-  name:       "Abhishekh Yadav",
-  location:   "India 🇮🇳",
-  role:       "Full Stack Developer",
-  stack:      ["React.js", "Node.js", "Firebase", "MongoDB", "Next.js"],
-  learning:   ["TypeScript", "System Design", "Next.js 15"],
-  available:  true,   // open to freelance & full-time opportunities
-  contact:    "abhishekhyadav292619@gmail.com",
+  role: "Full Stack Developer",
+  mode: "BUILDING + LEARNING",
+  focus: "Real-world applications & scalable systems",
+  security: "Exploring ethical hacking",
+  mission: "Turning ideas into products",
+  status: "Available for opportunities"
 };
 ```
 
