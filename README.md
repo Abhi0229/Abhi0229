@@ -12,7 +12,7 @@
 
 <br/> 
 
-> -Abhishekh Yadav
+*-Abhishekh Yadav*
 </div>
 
 <!-- SOCIAL — 2 rows -->
@@ -24,9 +24,8 @@
 <td><a href="mailto:abhishekhyadav292619@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail%20Me-ff3c4e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=ff3c4e"/></a></td>
 </tr><tr>
 <td colspan="4" align="center">
-<a href="https://www.upwork.com/freelancers/~01340da2d2baebede7"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-ff3c4e?style=for-the-badge&logo=upwork&logoColor=white&labelColor=000000&color=ff3c4e"/></a>&nbsp;&nbsp;
 <a href="https://www.freelancer.in/u/Abhii0229"><img src="https://img.shields.io/badge/Freelancer-Hire%20Me-ff3c4e?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=000000&color=ff3c4e"/></a>&nbsp;&nbsp;
-<a href="https://www.fiverr.com/abhishekh29/"><img src="https://img.shields.io/badge/Fiverr-Hire%20Me-ff3c4e?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=000000&color=ff3c4e"/></a>&nbsp;&nbsp;
+
 </td>
 </tr></table>
 </div>
