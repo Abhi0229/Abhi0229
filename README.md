@@ -29,7 +29,6 @@
 </td>
 </tr></table>
 </div>
-
 <br/>
 
 <!-- TERMINAL — ABOUT ME -->
@@ -111,7 +110,6 @@ const abhishekh = {
 
 ## 📊 GitHub Stats
 
-
 <table border="0">
 <tr>
 <td colspan="2">
@@ -136,7 +134,6 @@ const abhishekh = {
 
 <img src="https://streak-stats.demolab.com?user=Abhi0229&hide_border=true&background=000000&ring=ff3c4e&fire=ff3c4e&currStreakLabel=ff3c4e&sideLabels=ff3c4e&currStreakNum=ffffff&sideNums=ffffff&dates=666666&stroke=000000" />
 </div>
-
 <br/>
 
 <!-- ACTIVITY GRAPH -->
