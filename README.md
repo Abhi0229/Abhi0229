@@ -1,10 +1,10 @@
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:300000,100:0d0d0d&height=220&section=header&text=Abhishekh%20Yadav&fontSize=55&fontColor=ff3c4e&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60&descSize=18&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:300000,100:0d0d0d&height=220&section=header&text=Abhishekh%20Yadav&fontSize=55&fontColor=ff3c4e&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20Developer&descAlignY=60&descSize=18&descColor=ffffff"/>
 
 <!-- TYPING -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=FF3C4E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%2B+Node.js+%2B+Firebase;Building+Products+That+Matter;Always+Learning%2C+Always+Building)](https://github.com/Abhi0229)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=FF3C4E&center=true&vCenter=true&width=500&lines=Software+Engineer;React+%2B+Node.js+%2B+Firebase;Building+Products+That+Matter;Always+Learning%2C+Always+Building)](https://github.com/Abhi0229)
 
 </div><br/><div align="center">
 
