@@ -34,7 +34,7 @@
 <!-- TERMINAL — ABOUT ME -->
 ```js
 const abhishekh = {
-  role: "Full Stack Developer",
+  role: "Software Engineer",
   mode: "BUILDING + LEARNING",
   focus: "Real-world applications & scalable systems",
   security: "Exploring ethical hacking",
