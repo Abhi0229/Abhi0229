@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:300000,100:0d0d0d&height=220&section=header&text=Abhishekh%20Yadav&fontSize=55&fontColor=ff3c4e&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20Developer&descAlignY=60&descSize=18&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:300000,100:0d0d0d&height=220&section=header&text=Abhishekh%20Yadav&fontSize=55&fontColor=ff3c4e&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20&descAlignY=60&descSize=18&descColor=ffffff"/>
 
 <!-- TYPING -->
 <div align="center">
